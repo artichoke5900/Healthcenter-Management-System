@@ -5,10 +5,15 @@ The main aim is to ease the daily tasks of a working health center from the staf
 - Backend - PHP
 - Frontend - HTML5 , CSS  
 - Modules - 
-  - Login module  
-  - Admin module  
-  - Doctor module  
-  - Patient module
+  - _Login module_  
+The login module includes the login landing page along with the logout and the intermediate page between the appropriate landing page of each user.  
+  - _Admin module_  
+The admin module includes all the functionalities for editing and viewing user details, scheduling appointments and making payments, along with pages that link each particular functionality. All admin actions that affect the database in some way are logged in the Admin Log, along with the admin's ID and the time of access, to ensure accountability.  
+  - _Doctor module_  
+Doctors, once signed in, are presented with options to view the history of all of their patients and the medicines prescribed, update existing patient history/prescriptions, access any patient history (including patients not under them) using a unique patient ID, and view/cancel/reschedule appointments their appointments.
+  - _Patient module_  
+The patient module includes all view functionalities such as view medical history and payment history.  
+
   
 ### The Team -
 <pre>
