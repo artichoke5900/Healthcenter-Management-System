@@ -5,7 +5,9 @@ The main aim is to ease the daily tasks of a working health center from the staf
 
 ## 1. Login Page
 loginPage.php is the first landing page of the website.
-Enter a valid userID as prompted, to be directed to one of three role-specific landing pages. Once on each of the three landing pages, various functionalities are available for use. These are detailed below.
+Enter a valid userID as prompted, to be directed to one of three role-specific landing pages. In this database the admins are allocated an ID that starts with ‘A’, similarly doctors have an ID starting with ‘D’ and patients have one starting with ‘P’.
+
+Once on each of the three landing pages, various functionalities are available for use. These are detailed below.
 
 
 ## 2. Patient Landing Page
