@@ -5,9 +5,9 @@ The main aim is to ease the daily tasks of a working health center from the staf
 Backend - PHP
 Frontend - HTML5 , CSS
 Modules - 
-> Login module
-> Admin module
-> Doctor module
+> Login module  
+> Admin module  
+> Doctor module  
 > Patient module
 
 
