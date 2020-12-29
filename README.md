@@ -9,6 +9,19 @@ The main aim is to ease the daily tasks of a working health center from the staf
   - Admin module  
   - Doctor module  
   - Patient module
+  
+  ##### Contributers -
+  Aarthi Rajesh Marchetti
+  Anna Susan Cherian
+  Diya Jacob
+  Meenakshi Madhu
+  Neelima Sajeev
+  
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 
 ## 1. Login Page
