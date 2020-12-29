@@ -18,17 +18,17 @@ All payments made by this user to the hospital are displayed.
 
 ## 3. Doctor Landing Page
 ### 3.1. Managing Patients' Details
-  #### 3.1.1. View All Patients
-  Displays user details of all patients registered.
+> #### 3.1.1. View All Patients
+> Displays user details of all patients registered.
 
-  #### 3.1.2. View Patients Under You
-  Similar to above, but limits the results to only those patients who have undergone treatment with this particular doctor.
+#### 3.1.2. View Patients Under You
+Similar to above, but limits the results to only those patients who have undergone treatment with this particular doctor.
 
-  #### 3.1.3. View Patient Details Not Under You
-  Displays a list of patients specific to this doctor.
+#### 3.1.3. View Patient Details Not Under You
+Displays a list of patients specific to this doctor.
 
-  #### 3.1.4. Update Patient Prescription
-  Allows this doctor to update the prescription given (if any) during the respective appointment. Requires entry of the specific patient's user ID on prompt.
+#### 3.1.4. Update Patient Prescription
+Allows this doctor to update the prescription given (if any) during the respective appointment. Requires entry of the specific patient's user ID on prompt.
 
 
 ### 3.2. Managing Appointments' Details
