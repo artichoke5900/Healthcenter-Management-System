@@ -10,8 +10,8 @@ The main aim is to ease the daily tasks of a working health center from the staf
   - Doctor module  
   - Patient module
   
-### Contributers -
-> <pre>Aarthi Rajesh Marchetti    @artichoke5900  
+### Contributers -<pre>
+> Aarthi Rajesh Marchetti    @artichoke5900  
 Anna Susan Cherian                @annasuzan  
 Diya Jacob  
 Meenakshi Madhu                   @MeenakshiMadhu  
