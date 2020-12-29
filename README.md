@@ -10,7 +10,7 @@ The main aim is to ease the daily tasks of a working health center from the staf
   - Doctor module  
   - Patient module
   
-### Team -
+### The Team -
 <pre>
 Aarthi Rajesh Marchetti           @artichoke5900  
 Anna Susan Cherian                @annasuzan  
