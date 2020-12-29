@@ -12,7 +12,7 @@ The admin module includes all the functionalities for editing and viewing user d
   - _Doctor module_  
 Doctors, once signed in, are presented with options to view the history of all of their patients and the medicines prescribed, update existing patient history/prescriptions, access any patient history (including patients not under them) using a unique patient ID, and view/cancel/reschedule appointments their appointments.
   - _Patient module_  
-The patient module includes all view functionalities such as view medical history and payment history.  
+The patient module includes functionalities to view the patient's medical history and payment history.  
 
   
 ### The Team -
