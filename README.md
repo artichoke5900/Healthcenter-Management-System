@@ -11,11 +11,11 @@ The main aim is to ease the daily tasks of a working health center from the staf
   - Patient module
   
 ### Contributers -
-> Aarthi Rajesh Marchetti  @artichoke5900  
-Anna Susan Cherian  @annasuzan  
+> Aarthi Rajesh Marchetti       @artichoke5900  
+Anna Susan Cherian              @annasuzan  
 Diya Jacob  
-Meenakshi Madhu  @MeenakshiMadhu  
-Neelima Sajeev  @glitch702  
+Meenakshi Madhu                 @MeenakshiMadhu  
+Neelima Sajeev                  @glitch702  
 
 
 ## 1. Login Page
