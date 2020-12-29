@@ -2,13 +2,13 @@
 The main aim is to ease the daily tasks of a working health center from the staff’s end as well as the patients’ end. This software could replace the current strenuous and toilsome hospital system with an automated and convenient Hospital Management System.
 
 # README
-Backend - PHP
-Frontend - HTML5 , CSS  
-Modules - 
-> Login module  
-> Admin module  
-> Doctor module  
-> Patient module
+- Backend - PHP
+- Frontend - HTML5 , CSS  
+- Modules - 
+> - Login module  
+> - Admin module  
+> - Doctor module  
+> - Patient module
 
 
 ## 1. Login Page
