@@ -58,7 +58,7 @@ All payments made by this user to the hospital are displayed.
 > Displays all the upcoming scheduled appointments of that particular doctor.
 > 
 > #### 3.2.2. Reschedule Appointments
-> Allows this doctor to reschedule any upcoming appointments assigned to them.
+> Allows this doctor to reschedule any upcoming appointments assigned to them. Requires entry of the specific appointment ID.
 > 
 > #### 3.2.3. Cancel Appointments
 > Allows cancellation of appointments assigned to that specific doctor.
@@ -67,7 +67,7 @@ All payments made by this user to the hospital are displayed.
 ## 4. Admin Landing Page
 ### 4.1. Managing Users
 > #### 4.1.1. Register New Users
-> Select ‘Register New User’ under Manage Users and enter information as prompted. Enter user information, click 'Go', and then select the appropriate user type. Enter > additional information as prompted, hit submit, and then click 'Go Back' to return to the landing page.
+> Select ‘Register New User’ under Manage Users and enter information as prompted. Enter user information, click 'Go', and <b>then</b> select the appropriate user type. Enter > additional information as prompted, hit submit, and then click 'Go Back' to return to the landing page.
 > 
 > #### 4.1.2. Edit User Details
 > Enter a user's unique ID to edit that user's details.
@@ -75,7 +75,7 @@ All payments made by this user to the hospital are displayed.
 
 ### 4.2. Managing Appointments
 > #### 4.2.1. Make Appointment
-> Enter the relevant appointment information as and when prompted. Hit submit before clicking 'Go Back'.
+> Enter the relevant appointment information as and when prompted. Hit submit <b>before</b> clicking 'Go Back'.
 > 
 > #### 4.2.2. View Appointments
 > Displays a list of appointments according to the unique doctor ID entered.
@@ -83,7 +83,7 @@ All payments made by this user to the hospital are displayed.
 
 ### 4.3. Managing Payments
 > #### 4.3.1. Log Payment
-> Enter the relevant details of payment when prompted. Hit submit before clicking 'Go Back'.
+> Enter the relevant details of payment when prompted. Hit submit <b>before</b> clicking 'Go Back'.
 > 
 > #### 4.3.2. View Payment Details
 > Enter a patients' unique ID to view details of that user's payments.
@@ -91,7 +91,7 @@ All payments made by this user to the hospital are displayed.
 
 ### 4.4. Managing Departments
 > #### 4.4.1. Create Department
-> Enter the name and a unique ID of the department to be created. Hit submit before clicking 'Go Back'.
+> Enter the name and a unique ID of the department to be created. Hit submit <b>before</b> clicking 'Go Back'.
 > 
 > #### 4.4.2. View Doctors by Department
 > Enter the unique department ID to see user details of all doctors in that department.
