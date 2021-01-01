@@ -1,6 +1,15 @@
 # Healthcenter-Management-System
 The main aim is to ease the daily tasks of a working health center from the staff’s end as well as the patients’ end. This software could replace the current strenuous and toilsome hospital system with an automated and convenient Hospital Management System.
 
+### The Team -
+<pre>
+Aarthi Rajesh Marchetti           @artichoke5900  
+Anna Susan Cherian                @annasuzan  
+Diya Jacob  
+Meenakshi Madhu                   @MeenakshiMadhu  
+Neelima Sajeev                    @glitch702
+</pre>  
+
 # README
 - Backend - PHP
 - Frontend - HTML5 , CSS  
@@ -13,17 +22,6 @@ The admin module includes all the functionalities for editing and viewing user d
 Doctors, once signed in, are presented with options to view the history of all of their patients and the medicines prescribed, update existing patient history/prescriptions, access any patient history (including patients not under them) using a unique patient ID, and view/cancel/reschedule appointments their appointments.
   - _Patient module_  
 The patient module includes functionalities to view the patient's medical history and payment history.  
-
-  
-### The Team -
-<pre>
-Aarthi Rajesh Marchetti           @artichoke5900  
-Anna Susan Cherian                @annasuzan  
-Diya Jacob  
-Meenakshi Madhu                   @MeenakshiMadhu  
-Neelima Sajeev                    @glitch702
-</pre>  
-
 
 ## 1. Login Page
 loginPage.php is the first landing page of the website.
